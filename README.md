@@ -9,4 +9,6 @@ House Prices
 	<A href = 'https://github.com/michaelmorr82/Kaggle-DataSets/blob/master/House%20Prices/House%20Prices.ipynb'> (Jupyter)</A>
 
 Digit Recognizer
-<A href = 'https://github.com/michaelmorr82/Machine-Learning-Coursera-Andrew-Ng/blob/master/Exercises/Assignment%201%20-%20Linear%20regression/ex1%20-%20Python/Exercise%201%20-%20Linear%20Regression.ipynb'> (Jupyter)</A>
+	<A href = 'https://github.com/michaelmorr82/Machine-Learning-Coursera-Andrew-Ng/blob/master/Exercises/Assignment%201%20-%20Linear%20regression/ex1%20-%20Python/Exercise%201%20-%20Linear%20Regression.ipynb'> CNN</A>
+	<A href = 'https://github.com/michaelmorr82/Machine-Learning-Coursera-Andrew-Ng/blob/master/Exercises/Assignment%201%20-%20Linear%20regression/ex1%20-%20Python/Exercise%201%20-%20Linear%20Regression.ipynb'> PCA</A>
+	<A href = 'https://github.com/michaelmorr82/Machine-Learning-Coursera-Andrew-Ng/blob/master/Exercises/Assignment%201%20-%20Linear%20regression/ex1%20-%20Python/Exercise%201%20-%20Linear%20Regression.ipynb'> SVM PCA</A>
